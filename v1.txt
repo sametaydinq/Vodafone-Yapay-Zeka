@@ -1,0 +1,6 @@
+urunler fiyatlar kategori
+Kazak 80 Giyim
+Gömlek 120 Giyim
+Telefon 350 Elektronik
+Masa 600 Mobilya
+Sandalye 800 Mobilya

@@ -1,0 +1,7 @@
+kitaplar,yazarlar,bir,iki
+cinali,Akif,20,30
+cinali,Caner,50,40
+cinali,enes,60,70
+abasıyanık,sf,100,120
+abasıyanık,sf,200,250
+abasıyanık,sf,300,350

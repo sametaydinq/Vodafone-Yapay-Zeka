@@ -1,0 +1,5 @@
+ali,80,E
+Can,40,E
+Eda,90,K
+Efe,35,E
+Veli,16,E

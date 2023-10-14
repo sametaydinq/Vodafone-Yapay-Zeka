@@ -1,0 +1,8 @@
+#merhaba
+isim,fiyatlar,türler
+#ürünlerin türleri ve fiyatları
+abc,80,X
+abc2,100,X
+abc3,200,X
+abc4,300,Y
+abc5,350,Y
